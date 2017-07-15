@@ -20,5 +20,15 @@
 <li> Nâng cáo hỗ trợ các tiện ích về cảnh báo: Hết hạn hợp đồng, sinh nhật, cảnh báo đến hạn tăng lương, chứng minh thư…</li>
 <li>Hệ thống báo cáo đa dạng, chi tiết theo từng module chức năng trong phần mềm</li></ul>
 <hr>
+**Thông tin về giấy phép**
+<ul>Giấy phép Mit</ul>
+<ul>
+	<li>Giấy phép MIT có nguồn gốc từ viện công nghệ Massachusetts</li>
+	<li>Tên gọi khác X11, giấy phép MIT được sử dụng nhiều cho các phần mềm đặc biệt trong hệ thống window</li>
+	<li>Là loại giấy phép có nhiều điểm tương đồng với BSD và được coi là một phần của dòng giấy phép BSD</li>
+	<li>Giấy phép MIT cho phép tái sử dụng lại mã nguồn mở tỏng các phần mềm độc quyền với điều kiện các điều khoản trong giấy phép được đưa vào phần mềm độc quyền</li>
+	<li>Sự khác biệt giữa giấy phép MIT và giấy phép BSD đó là giấy phép MIT không chứa mệnh đề hạn chế việc sử dụng tên của người giữ quyền sở hữu trong việc quảnh bá phần mềm và nó đưa thêm những nhấn mạnh vào các quyền của người sử dụng như "sử dụng, sao chép, điều chỉnh, trộn, công bố, phân phối, cấp giấy phép thứ cấp và/hoặc bán bản sao của phần mềm"</li>
+</ul>
+<hr>
 <p> Chi tiết liên hệ: Đỗ Kim Huy</p>
 <p>SDT: 0166 3897701</p>

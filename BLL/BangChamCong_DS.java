@@ -8,11 +8,22 @@ package BLL;
 import java.sql.*;
 import javax.swing.*;
 import DAL.*;
+
 public class BangChamCong_DS {
     static ConnectionDB kn = new ConnectionDB();
     public static PreparedStatement pst = null;
     public static ResultSet rs = null;
     public static Connection conn = kn.getConnect();
+    /*
+    * thêm bảng chấm công
+    * #pagram  maBCC @maBCC
+    * #pagram  maNV  @maNV
+    * #pagram  thang @thang
+    * #pagram  songaylam @songaylam
+    * #pagram  songaynghiphep @songaynghiphep
+    * #pagram  songaynghikhongphep @songaynghikhongphep 
+    
+    */
     public static void themBCC(String maBCC, String maNV, String thang, String songaylam, String songaynghiphep, String songaynghikhongphep)
     {
         String sql="INSERT INTO dbo.BANGCHAMCONG(MABCC, MANV,THANG,SONGAYLAM,SONGAYNGHIPHEP,SONGAYNGHIKHONGPHEP) values (?, ?, ?, ?, ?, ?)";
@@ -30,6 +41,15 @@ public class BangChamCong_DS {
             JOptionPane.showMessageDialog(null, "Không thể thêm được, xin kiểm tra lại", "Thông báo",1);
         }
     }
+        /*
+    * sửa bảng chấm công
+    * #pagram  maBCC @maBCC
+    * #pagram  maNV  @maNV
+    * #pagram  thang @thang
+    * #pagram  songaylam @songaylam
+    * #pagram  songaynghiphep @songaynghiphep
+    * #pagram  songaynghikhongphep @songaynghikhongphep 
+    */
     public static void suaBCC(String maBCC, String maNV, String thang, String songaylam, String songaynghiphep, String songaynghikhongphep)
     {
         String sql = "UPDATE dbo.BANGCHAMCONG SET THANG='"+thang+"', MANV ='"+maNV+"', SONGAYLAM ='"+songaylam+"',SONGAYNGHIPHEP = '"+songaynghiphep+"', SONGAYNGHIKHONGPHEP = '"+songaynghikhongphep+"' where MABCC='"+maBCC+"'";
@@ -41,6 +61,15 @@ public class BangChamCong_DS {
             JOptionPane.showMessageDialog(null, "Không thể sữa được, xin kiểm tra lại", "Thông báo",1);
         }
     }
+        /*
+    * xóa bảng chấm công
+    * #pagram  maBCC @maBCC
+    * #pagram  maNV  @maNV
+    * #pagram  thang @thang
+    * #pagram  songaylam @songaylam
+    * #pagram  songaynghiphep @songaynghiphep
+    * #pagram  songaynghikhongphep @songaynghikhongphep 
+    */
     public static void xoaBCC(String maBCC)
     {
         String sql ="DELETE FROM dbo.BANGCHAMCONG WHERE MABCC = '"+ maBCC +"'";

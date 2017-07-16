@@ -9,6 +9,7 @@
 <p>- GUI: Thành phần giao diện, là các form (windows form, webform, mobile form) của chương trình tương tác với người sử dụng.</p>
 <p>- BLL: Xử lý các nghiệp vụ của chương trình như tính toán, xử lý hợp lệ và toàn vẹn về mặt dữ liệu.</p>
 <p>- DAL: Tầng giao tiếp với các hệ quản trị CSDL.</p>
+
 <p>Bước 3: Thêm các gói thư viên hổ trợ "rs2xml.jar & sqljdbc4.jar":</p>
 <p>http://www.mediafire.com/file/3ycmaelhoot/sqljdbc4.jar<p>
 <p>http://www.4shared.one/file/kfogUJTTba/rs2xml.html<p>

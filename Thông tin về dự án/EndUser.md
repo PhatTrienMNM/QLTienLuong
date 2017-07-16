@@ -12,4 +12,4 @@
 <p align="center"><img src="https://raw.githubusercontent.com/PhatTrienMNM/QLTienLuong/master/IMG/New%20folder/menunguodung.png"></p>
 - Thao tác tương tự như người quản trị nhưng người dùng chỉ được phép xem và tra cứu thông tin và lương của mình:
 <p align="center"><img src="https://raw.githubusercontent.com/PhatTrienMNM/QLTienLuong/master/IMG/New%20folder/luong.PNG"></p>
-- Tiếp theo: Nếu không muốn sử dụng nữa người dùng click vào thoát hoặc dấu chéo đỏ gốc trên bên phải của form để đóng chương trình.
+- Tiếp theo: Nếu không muốn sử dụng nữa người dùng click vào thoát hoặc dấu chéo đỏ gốc trên bên phải của form để đóng chương trình. 

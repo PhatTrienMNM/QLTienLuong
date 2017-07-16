@@ -12,7 +12,7 @@ Bước 2: Vào Team -> Git -> Clone
 
 - Chọn đường dẫn để lưu dữ liệu Clone into 
 
-Bước 3: Nhấn Next -> Tích chon vào nhánh muốn lấy mã nguồn 
+Bước 3: Nhấn Next -> Tích chon vào nhánh muốn lấy mã nguồn   
 
 ![image](https://user-images.githubusercontent.com/27814649/28244028-062fe83a-6a09-11e7-9cb5-97ae7ef9cdc2.png)
 

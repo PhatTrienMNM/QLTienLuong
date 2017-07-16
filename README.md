@@ -8,7 +8,7 @@
 <h3 style="color:#1aa3ff;">Ý tưởng </h3>
 <p>Quản lý cán bộ,tiền lương là một trong những bộ phận quan trọng trong các cơ quan,đặc biệt là trong cơ quan lớn trong nước và các cơ quan nước ngoài.sự thành thạo của cơ quan phụ thuộc vào cách thức tổ chức cán bộ có tốt hay không,quản lý tiền lương có tốt hay không.các cơ  quan luôn phát triển nên hồ sơ của cán bộ vào cơ quan ngày càng nhiều.công việc lưu trữ hồ sơ thủ công sẽ rất khó khăn cho việc tìm kiểm cũng như bảo quản tốt hay bí mật.vì thế nhóm em quyết đinh <strong>" xây dựng phần mềm quản lý tiền lương"</strong>.</p>
 <hr>
-<ul><h3 style="color:#1aa3ff;"><strong> Mục têu sử dụng</strong> </h3>
+<ul><h3 style="color:#1aa3ff;"><strong> Mục tiêu sử dụng</strong> </h3>
 <li> tiết kiệm công sức con người</li>
 <li>Tiết kiệm thời gian</li>
 <li>Thuận tiện cho việc tìm kiếm  và tra cứu</li>

@@ -1,4 +1,4 @@
-<h4 style="color:red; text-align:center;">CHUẨN LẬP TRÌNH</h4>
+<h4 style="text-align:center;">CHUẨN LẬP TRÌNH</h4>
 <ul> <strong>Cách tổ chức và lưu tên flie, thư mục</strong></pl>
 <hr>
 <h3 style="color:#1aa3ff;">1. Các quy ước về cách đặt tên:</h3>

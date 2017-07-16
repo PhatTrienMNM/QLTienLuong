@@ -10,7 +10,7 @@
 <p>- BLL: Xử lý các nghiệp vụ của chương trình như tính toán, xử lý hợp lệ và toàn vẹn về mặt dữ liệu.</p>
 <p>- DAL: Tầng giao tiếp với các hệ quản trị CSDL.</p>
 
-<p>Bước 3: Thêm các gói thư viên hổ trợ "rs2xml.jar & sqljdbc4.jar":</p>
+<p>Bước 3: Thêm các gói thư viên hổ trợ "rs2xml.jar & sqljdbc4.jar":</p> 
 <p>http://www.mediafire.com/file/3ycmaelhoot/sqljdbc4.jar<p>
 <p>http://www.4shared.one/file/kfogUJTTba/rs2xml.html<p>
 <p align="center"><img src="https://user-images.githubusercontent.com/27814649/28240601-27e6ca8e-69af-11e7-96a0-58fba622ec20.PNG"></p>

@@ -10,7 +10,7 @@
 <p>•	Đặt tên cho các gói (package) nên bằng chữ in thường toàn bộ.</p>
 <p>•	Tên cho các kiểu dữ liệu phải là danh từ, và được viết rõ ràng bởi các từ bắt đầu bằng 1 ký tự in hoa.</p>
 <p>•	Tên hằng phải đặt toàn bộ là chữ in hoa, các từ tách biệt nhau bởi ký tự gạch dưới “_”.</p>
-<p>•	Tên của các phương thức phải là động từ bắt đầu bằng 1 ký tự in thường và các từ tiếp sau được viết rõ ràng bởi các từ bắt đầu bằng 1 kí tự in hoa.</p> 
+<p>•	Tên của các phương thức phải là động từ bắt đầu bằng 1 ký tự in thường và các từ tiếp sau được viết rõ ràng bởi các từ bắt đầu bằng 1 kí tự in hoa.</p>    
 <p>•	Những từ viết tắt không nên viết toàn các ký tự in hoa (trừ khi nó nằm trong tên hằng).</p>
 <p>•	Những biến phạm vi rộng nên đặt tên dài, những biến phạm vi hoạt động hẹp (cục bộ) nên đặt tên ngắn.</p>
 <p>•	Từ khóa “find” có thể được sử dụng trong các phương thức tìm kiếm.</p>

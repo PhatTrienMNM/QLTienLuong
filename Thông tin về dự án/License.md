@@ -119,7 +119,7 @@ c) Một số phần mềm sử dụng giấy phép BSD:
 Một số lớn các dự án xây dựng phần mềm nguồn mở, bao gồm cả những phần mềm lớn, đã được cấp giấy phép dạng BSD. Ví dụ: – Hệ thống Window Xfree86: nền tảng của hầu hết các giao diện với người sử dụng trong các hệ thống phần mềm nguồn mở. – FreeBSD, NetBSD và OpenBSD: các biến thể của phiên bản Unix gốc được cấp giấy phép BSD, cả ba đều được sử dụng rộng rãi trên mạng Internet, đặc biệt là FreeBSD, chương trình điều hành Yahoo Mail và dịch vụ Hotmail.
 
 Tích hợp mã nguồn được cấp phép theo chế độ giấy phép BSD vào các ứng dụng thương mại và việc khá đơn giản. Ngay Microsoft trước đây cũng đã từng sử dụng một số mã BSD trong phần kết nối mạng của mã nguồn Window. Nhiều công ty đưa cả phần mềm máy chủ Apache vào trong gói phần mềm thương mại mà họ cung cấp cho khách hàng.
-
+ 
 Giấy phép MIT
 a) Nhà phát hành:
 

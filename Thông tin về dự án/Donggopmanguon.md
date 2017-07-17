@@ -39,3 +39,4 @@ Bước 4: Click phải chuột vào những gì bạn đã Commit -> Chon Git -
 - Bạn có thể sửa và bổ sung mã nguồn ngay trên mã nguồn vừa lấy xuống ngay trong Favorites và thực hiện bắt đầu từ bước 4.
 
 - Vậy là bạn đãn đóng góp xong mã nguồn của mình lên kho github.
+

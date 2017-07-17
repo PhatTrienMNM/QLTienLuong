@@ -4,7 +4,7 @@
   <NonVisualComponents>
     <Component class="javax.swing.JLabel" name="jLabel5">
       <Properties>
-        <Property name="text" type="java.lang.String" value="M&#xe3; l&#x1b0;&#x1a1;ng"/>
+        <Property name="text" type="java.lang.String" value="M&#xe3; l&#x1b0;&#x1a1;ng"/> 
       </Properties>
     </Component>
     <Component class="javax.swing.JTextField" name="jTextField4">

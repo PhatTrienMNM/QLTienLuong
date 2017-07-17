@@ -8,6 +8,7 @@ package BLL;
 import java.sql.*;
 import javax.swing.*;
 import DAL.*;
+
 public class QuanTri_DS {
     static ConnectionDB kn = new ConnectionDB();
     public static PreparedStatement pst = null;

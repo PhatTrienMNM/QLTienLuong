@@ -8,7 +8,7 @@ Phân loại: Giấy phép mã nguồn mở có thể được chia thành 2 lo�
 
 – Những giấy phép không quy định bất cứ sự hạn chế nào trong việc sử dụng mã nguồn (còn có thể gọi là các giấy phép không bảo hộ vì chúng không bảo vệ mã nguồn mở khỏi việc bị sử dụng trong các phần mềm không phải là mã nguồn mở)
 
-Các giấy phép thuộc loại này: Apache Software License v.1.1, BSD License, Intel Open Source License for CDSA/CSSM Implementation, MIT License, Sun Industry Standards Source License, W3C Software Notice and License…
+Các giấy phép thuộc loại này: Apache Software License v.1.1, BSD License, Intel Open Source License for CDSA/CSSM Implementation, MIT License, Sun Industry Standards Source License, W3C Software Notice and License… 
 
 – Những giấy phép quy định các hạn chế trong việc sử dụng mã nguồn (còn có thể gọi là các giấy phép bảo hộ vì chúng đảm bảo rằng các mã nguồn mở khi được sử dụng trong bất cứ tình huống nào sẽ vẫn được công khai/miễn phí.)
 

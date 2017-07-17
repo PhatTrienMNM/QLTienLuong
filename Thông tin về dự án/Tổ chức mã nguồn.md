@@ -25,7 +25,7 @@ nghiệp vụ, tính toán, xử lý các yêu cầu và lựa chọn kết qu�
 Presentation Layers.
 
 **Data Access Layer**
-
+ 
 Lớp này thực hiện các nghiệp vụ liên quan đến lưu trữ và truy xuất dữ liệu  
 của ứng dụng như đọc, lưu, cập nhật cơ sở dữ liệu. Cách vận hành của mô hình.
 Đối với 3-Layer, yêu cầu được xử lý tuần tự qua các layer. Đầu tiên User 

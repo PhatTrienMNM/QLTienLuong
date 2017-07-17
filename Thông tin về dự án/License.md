@@ -75,7 +75,7 @@ Xử lí vi phạm:
 
 Người vi phạm giấy phép bị tước quyền sử dụng giấy phép GNU, tuy nhiên nếu B thừa hưởng giấy phép từ A, mà A vi phạm mà B không vi phạm thì B vẫn được giữ giấy phép GNU.
 
-Ta có thể thấy giấy phép GNU có những điểm đáng chú ý sau:
+Ta có thể thấy giấy phép GNU có những điểm đáng chú ý sau: 
 
 – Có đặc tính virus, bởi sức lây lan và kế thừa của nó. Một người nhận sản phẩm từ người mang giấy phép GNU thì ngay lập tức người đó cũng mang giấy phép GNU. Hệ quả là GNU là giấy phép phổ biến nhất, bởi mã nguồn luôn ở dạng công cộng cho phép ai cũng có thể tham gia ở bất kì thời điểm nào.
 

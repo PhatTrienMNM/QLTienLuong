@@ -1,5 +1,5 @@
 <h4 color="red" align="center">HƯỚNG DẪN SỬ DỤNG</h4>
-<hr>
+<hr> 
 <li>Đầu tiên: Đăng nhập vào hệ thống, bằng tên đăng nhập và tài khoản của mình như hình sau:</li>
 <p align="center"><img src="https://raw.githubusercontent.com/PhatTrienMNM/QLTienLuong/master/IMG/New%20folder/dangnhap.PNG"></p>
 <li>Tiếp theo: Nếu là người quản trị thì vào menu hệ thống sau:</li>

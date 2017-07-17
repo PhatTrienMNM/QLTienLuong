@@ -6,7 +6,7 @@
 package BLL;
 import java.sql.*;
 import javax.swing.*;
-import DAL.*;
+import DAL.*; 
 import net.proteanit.sql.*;
 
 //import net.proteanit.sql.*;

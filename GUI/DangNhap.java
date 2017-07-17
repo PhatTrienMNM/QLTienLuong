@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package GUI;
-
+ 
 import javax.swing.*;
 import BLL.*;
 import DAL.*;
